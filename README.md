@@ -1,6 +1,7 @@
 # personalprojects
 
-#S&P500 Prediction Model
+S&P500 Prediction Model
+
 Features
 Fetches historical market data for S&P 500, Gold (GLD), and the Volatility Index (VIX).
 Prepares datasets and extracts relevant features.
